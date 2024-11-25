@@ -1,0 +1,37 @@
+O que é a linguagem GoLang, ou linguage GO?
+	R: A linguagem Go, também conhecida como Golang, é uma linguagem de programação de código aberto desenvolvida pelo Google.
+	- Foi criada para melhorar a produtividade da programação em um contexto de computadores com múltiplos núcleos, bases de dados gigantescas e máquinas em rede 
+	- Combina recursos de linguagens como C e C++ com uma sintaxe mais simples e fácil de aprender 
+	- É conhecida por sua simplicidade, eficiência e suporte robusto para programação concorrente 
+	- É uma escolha popular para o desenvolvimento de sistemas, servidores e aplicações em nuvem 
+--------------------------------------------------------------	
+	
+Instalando nesta distro de linux:
+	Linux tm-Aspire-E1-571 6.8.0-49-generic #49-Ubuntu SMP PREEMPT_DYNAMIC Mon Nov  4 02:06:24 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
+	
+Usei esse comando:
+	sudo apt install golang
+go version:
+	go version go1.22.2 linux/amd64
+--------------------------------------------------------------
+workspace:
+	Para utilizarmos a linguagem de programação Go devemos seguir algumas convenções, e a principal delas é a sua organização de pastas no seu Workspace.
+	O Workspace padrão do Go é um diretório chamado /go que fica na pasta do seu usuário em seu sistema operacional.
+	No Windows esta pasta normalmente se encontra em C:/Users/seu-usuario/ , e nos sistemas Unix ( MacOS e distribuições do Linux) normalmente se encontra em /home/seu-usuario/.
+	Dentro deste diretório devem conter as seguintes pastas:
+	pasta-do-usuario/
+	└── go
+	    ├── bin
+	    ├── pkg
+	    └── src
+	A bin , onde ficará os compilados do nosso código Go.
+
+	A pkg, onde ficará os pacotes compartilhados das nossas aplicações, pois o Go é uma linguagem bastante modular, dependendo bastante de pacotes que vamos importando ao longo de nossos códigos.
+
+	A src, onde escreveremos o código fonte de cada aplicação.
+
+	Crie estas pastas como indicado acima, para que o seu Go Workspace fique funcionando corretamente.
+
+
+	
+

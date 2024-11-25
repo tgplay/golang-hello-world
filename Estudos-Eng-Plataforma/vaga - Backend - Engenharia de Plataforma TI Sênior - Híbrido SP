@@ -1,0 +1,28 @@
+Backend - Engenharia de Plataforma TI Sênior - Híbrido SP:
+
+requisitos:
+
+	- Programação em linguagem Go e ou Java/Kotlin, ou pelo menos em duas linguagens de programação estruturadas ou orientadas a objeto (Ex.: C, C++, C#)
+
+	- Experiência comprovada na construção e manutenção de sistemas altamente disponíveis, resilientes, observáveis, escaláveis e seguros
+
+	- Conhecimento amplo sobre sistemas e algoritmos distribuídos
+
+	- Domínio de testes unitários e testes de integração, e2e;
+
+	- Conhecimento solido de arquiteturas em nuvem pública AWS ou Azure (Tecnologias serverless e baseadas em containers)
+
+	- Conhecimento na criação de aplicações baseadas em containers (Kubernetes, EKS, AKS, GKE)
+
+	- Conhecimento em modelos de integração síncronos baseados em APIs RESTFull e/ou gRPC
+
+	- Conhecimento em modelos de integração assíncronos baseados em mensageria (Kafka, SQS/SNS, Service Bus)
+
+	- Conhecimento sobre uso de base de dados não relacionais e relacionais (Ex.: CosmosDB, DynamoDB, MySql, Postgres)
+
+	- Conhecimento em processos e ferramentas de entrega contínua de software (Gitflow, Github Actions)
+
+	- Conhecimentos de práticas DevOps, 12 factor, CI/CD e Infra-as-Code (Terraform/cloudFormation)
+	
+Competências para a vaga:
+	Java, Amazon Web Services, Arquitetura de soluções, Go (Linguagem de programação), Padrões de design

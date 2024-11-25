@@ -1,0 +1,26 @@
+Criando Hello, world em go.
+
+1 - Na pasta "go" e na sub pasta "src", criar uma pasta hello.
+
+2 - Na pasta "hello" criar um arquivo "hello.go"
+
+3 - Depois de criado o arquivo, criar essa estrutura nele:
+	package main
+
+	import "fmt"
+
+	func main() {
+		fmt.Println("Hello, World!")
+	}
+	
+4 - Na linha de comando executar assim:
+	"go build hello.go"
+	isso irá criar um exevutavel com o nome de "hello"
+
+5 - Para executar o projeto digitar esse comando no terminal:
+	"./hello"
+	Isso irá exibir o conteudo do projeto com o texto "Hello, world!"
+	Para não precisar buildar e depois executar tem o comando "go run hello.go"
+	Dessa forma ele builda o projeto e já o executa.s
+	
+
