@@ -1,2 +1,3 @@
 # golang-hello-world
-Hello , World!
+My first project with the Go language.
+"Hello , World!"
